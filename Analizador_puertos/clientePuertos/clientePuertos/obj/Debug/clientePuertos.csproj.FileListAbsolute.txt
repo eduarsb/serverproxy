@@ -1,5 +1,0 @@
-c:\users\eduardo\documents\visual studio 2012\Projects\clientePuertos\clientePuertos\bin\Debug\clientePuertos.exe.config
-c:\users\eduardo\documents\visual studio 2012\Projects\clientePuertos\clientePuertos\bin\Debug\clientePuertos.exe
-c:\users\eduardo\documents\visual studio 2012\Projects\clientePuertos\clientePuertos\bin\Debug\clientePuertos.pdb
-c:\users\eduardo\documents\visual studio 2012\Projects\clientePuertos\clientePuertos\obj\Debug\clientePuertos.exe
-c:\users\eduardo\documents\visual studio 2012\Projects\clientePuertos\clientePuertos\obj\Debug\clientePuertos.pdb
